@@ -1,0 +1,66 @@
+# Shuttle Automation — Transparency
+
+**Version:** 1.0  
+**Effective Date:** Sept. 1, 2026
+
+## What is Monitor?
+
+Monitor periodically checks the shuttle service for relevant information and sends notifications when configured conditions are detected.
+
+Monitor does not automatically make bookings.
+
+## What is Autobook?
+
+Autobook automatically attempts to make shuttle bookings according to the user's configured preferences.
+
+Autobook may use the user's shuttle account credentials to authenticate and perform the booking.
+
+## What Information Does It Use?
+
+Depending on the service being used, the system may use:
+
+- User identification information.
+- Shuttle account information.
+- Booking preferences.
+- Booking information.
+- Technical logs.
+
+Only information necessary for the service is intended to be used.
+
+## What Happens When a Booking Fails?
+
+Autobook reports the booking attempt as unsuccessful when it detects a failure.
+
+A failure may occur because of unavailable slots, network problems, technical errors, incorrect information, or changes to the shuttle service.
+
+A booking should always be verified when it is important.
+
+## What Happens If the Shuttle Service Changes?
+
+If the shuttle service changes its website, login system, booking process, or other technical systems, Monitor or Autobook may stop working.
+
+The operator may update the system to restore compatibility when possible.
+
+## What We Don't Do
+
+The service is not intended to:
+
+- Access unrelated information in a user's account.
+- Access another user's account.
+- Share user credentials with other users.
+- Sell user information.
+- Guarantee successful bookings.
+
+## Who Operates This?
+
+The service is a privately operated project maintained by:
+
+**Operator:** @jeemyreturn (in discord)
+
+It is currently limited to personally invited users. (for now)
+
+## Contact
+
+Questions, concerns, or requests can be sent to:
+
+@jeemyreturn (in discorD) VIA DM

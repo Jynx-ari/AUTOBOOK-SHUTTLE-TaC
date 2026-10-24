@@ -1,6 +1,7 @@
 # Shuttle Automation — Terms & Conditions
 
 **Since:** September 1, 2026
+
 **Version:** 2.0  
 **Effective Date:** October 23, 2026
 
